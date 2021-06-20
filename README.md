@@ -1,6 +1,8 @@
-<image src="klee.jpg" title="Klee from Genshin Impact" width=400>
+<p>Hi, My name is Bryan!</p>
 
- ### Hi, my name is Bryan! I am a computer science student at UC Irvine!
+<image src="klee.jpg" title="Our adorable pyromaniac from Genshin Impact" width=350>
+
+<p>I am a computer science student at UC Irvine.<br>I specialize in software engineering and digital illustration!</p>
 
 
 <!--
