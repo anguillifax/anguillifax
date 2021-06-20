@@ -1,8 +1,9 @@
-<p>Hi, My name is Bryan!</p>
+## Hello, I'm Bryan! 👋
 
 <image src="klee.jpg" title="Our adorable pyromaniac from Genshin Impact" width=350>
 
-<p>I am a computer science student at UC Irvine.<br>I specialize in software engineering and digital illustration!</p>
+I am a computer science student at UC Irvine.<br>
+I specialize in software engineering and digital illustration! 🍓
 
 
 <!--
