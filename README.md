@@ -1,1 +1,1 @@
-<image src="klee.jpg" width=350>
+<image src="img.jpg" width=350>
